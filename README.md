@@ -1,9 +1,9 @@
-# data-statistics-analytics-python
+# Data-Statistics-Analytics-Python
 
-📊 Data Statistics and Analytics with Python
+# 📊 Data Statistics and Analytics with Python
 Training by: CITD Hyderabad
 Platform: Google Colab
 
-🚀 Topics Covered:
+# 🚀 Topics Covered:
 Exploratory Data Analysis (EDA)
 Data Visualization (Matplotlib, Seaborn)
