@@ -5,13 +5,13 @@
 The repository "data-statistics-analytics-python" serves as a comprehensive collection of projects and resources developed during the Data Statistics and Analytics training conducted by CITD Hyderabad. Utilizing Google Colab as the primary platform, this repository encompasses various aspects of data analysis and visualization using Python.
 
 ---
-Key Components:
+# Key Components:
 
-Training Modules: Jupyter notebooks covering topics such as Exploratory Data Analysis (EDA) and data visualization techniques using libraries like Matplotlib and Seaborn.
+- Training Modules: Jupyter notebooks covering topics such as Exploratory Data Analysis (EDA) and data visualization techniques using libraries like Matplotlib and Seaborn.
 
-ISRO Chandrayaan-3 LIBS Data Analysis: A dedicated project analyzing Laser-Induced Breakdown Spectroscopy data from Chandrayaan-3 to investigate lunar surface compositions.
+- ISRO Chandrayaan-3 LIBS Data Analysis: A dedicated project analyzing Laser-Induced Breakdown Spectroscopy data from Chandrayaan-3 to investigate lunar surface compositions.
 
-Supplementary Materials: Additional resources and scripts that support the training modules and projects.
+- Supplementary Materials: Additional resources and scripts that support the training modules and projects.
 
 ---
 ---
