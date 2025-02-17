@@ -1,4 +1,3 @@
-```markdown
 # 📊 Data Statistics and Analytics with Python  
 **Training by:** CITD Hyderabad  
 **Platform:** Google Colab  
@@ -39,7 +38,7 @@ This repository showcases my Week 3 project from ISRO's Data Analytics Training,
 1. Clone the repository:
    ```bash
    git clone your_github_repo_link
-   ```
+   
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
