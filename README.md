@@ -1,5 +1,5 @@
 # 📊 Data Statistics and Analytics with Python  
-**Training by:** CITD Hyderabad  
+**Training by:** CITD Hyderabad  @Kakatiya Unoversity
 **Platform:** Google Colab  
 
 The repository "data-statistics-analytics-python" serves as a comprehensive collection of projects and resources developed during the Data Statistics and Analytics training conducted by CITD Hyderabad. Utilizing Google Colab as the primary platform, this repository encompasses various aspects of data analysis and visualization using Python.
